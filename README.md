@@ -1,19 +1,19 @@
 <!-- HEADER -->
-<h1 align="center">Cześć 👋, jestem Marcin</h1>
+<h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">PHP / Laravel Developer</h3>
 
 <p align="center">
-  Tworzę aplikacje webowe, API i systemy, które po prostu działają 🚀
+  I build web applications, APIs, and systems that are reliable and scalable 🚀
 </p>
 
 ---
 
-## 👨‍💻 O mnie
+## 👨‍💻 About me
 
 - 💼 PHP Developer (Laravel, Symfony)
-- 🧠 Lubię clean code i sensowną architekturę
-- ⚙️ Pracowałem z API, e-commerce i dużymi aplikacjami
-- 🚀 Buduję własne projekty (CRM, system ticketowy, sklep)
+- 🧠 Focused on clean code and maintainable architecture
+- ⚙️ Experience with APIs, e-commerce, and large web applications
+- 🚀 Building my own projects (CRM, ticket system, online store)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Statystyki
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcinbaran&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
@@ -37,21 +37,21 @@
 
 ---
 
-## 🚀 Projekty
+## 🚀 Projects
 
-- 🧾 CRM do zarządzania klientami  
-- 🎟 System sprzedaży biletów  
-- 🛒 Sklep internetowy (Laravel)  
+- 🧾 CRM system for client management  
+- 🎟 Ticket sales system  
+- 🛒 E-commerce platform (Laravel)  
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 - GitHub: https://github.com/marcinbaran
-- (tu możesz dodać LinkedIn jak chcesz)
+- LinkedIn: https://www.linkedin.com/in/mrevib
 
 ---
 
 ## ⚡ Fun fact
 
-> Jeśli coś działa za pierwszym razem… to znaczy, że czegoś nie sprawdziłem 😄
+> If something works on the first try… I probably missed something 😄
